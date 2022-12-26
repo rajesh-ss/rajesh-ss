@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @rajesh-ss</br>
 - 💞️ I’m looking to collaborate on Front-end related projects</br>
 - 🌱 I’m currently learning <b>ReactJS, Fontend technology</b></br>
-- 💬 Ask me about <b>IOT</br>
+- 💬 Ask me about <b>IOT</b></br>
 - 📫 How to reach me <b>s.rajeshraj@outlook.com</b></br>
 <h3 align="center">A passionate frontend developer and </h3>
 <h3 align="left">Connect with me:</h3>
