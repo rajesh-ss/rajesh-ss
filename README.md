@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh-ss&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh-ss" /> </p>
 - 👋 Hi, I’m @rajesh-ss</br>
-- 💞️ I’m looking to collaborate on Fornt-end related projects</br>
+- 💞️ I’m looking to collaborate on Front-end related projects</br>
 - 🌱 I’m currently learning **ReactJS, Fontend technology**</br>
 - 💬 Ask me about **IOT**</br>
 - 📫 How to reach me **s.rajeshraj@outlook.com**</br>
